@@ -1,2 +1,2 @@
 # imgwpp
-Joke program to change the wallpaper and start programs or open URLs remotely
+Joke program to change the wallpaper and start programs or open URLs remotely (for Windows)
